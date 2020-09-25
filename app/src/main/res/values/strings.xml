@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BottomNav</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="save">Save</string>
+    <string name="hello_to_acc_fragment" />
+    <string name="hello_from_acc_fragment">Hello from acc fragment</string>
+    <string name="apply_this_field">Apply this field</string>
+    <string name="here_will_your_some_data">Here will your some data</string>
+    <string name="acc">Acc</string>
+    <string name="todo">TODO</string>
+    <string name="title">Title</string>
+    <string name="time">Time</string>
+    <string name="clock">Clock</string>
+    <string name="info">Info</string>
+</resources>
